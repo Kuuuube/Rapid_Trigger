@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenTabletDriver.Plugin", ".modules\OpenTabletDriver\OpenTabletDriver.Plugin\OpenTabletDriver.Plugin.csproj", "{AD3F2FF5-9FC6-4B1F-8EC2-78E571AF515C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rapid_Trigger", "Rapid_Trigger\Rapid_Trigger.csproj", "{D5830CC0-4B59-407D-AF8D-C7D1DE5AFE68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD3F2FF5-9FC6-4B1F-8EC2-78E571AF515C}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{AD3F2FF5-9FC6-4B1F-8EC2-78E571AF515C}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{AD3F2FF5-9FC6-4B1F-8EC2-78E571AF515C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD3F2FF5-9FC6-4B1F-8EC2-78E571AF515C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5830CC0-4B59-407D-AF8D-C7D1DE5AFE68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5830CC0-4B59-407D-AF8D-C7D1DE5AFE68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5830CC0-4B59-407D-AF8D-C7D1DE5AFE68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5830CC0-4B59-407D-AF8D-C7D1DE5AFE68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F53C56A-F377-4EEF-8C3A-47D7FD8A552A}
+	EndGlobalSection
+EndGlobal
